@@ -248,9 +248,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                         <li><a target="blank">User-friendly Interface</a></li>
                         <li><a target="blank">Free Lifetime Updates</a></li>
                         <br/>
-                        <br/>
-                        <br/>
-                        <br/>
+                        </ul>
                         <h2>Frequently Asked Questions</h2>
                         <div>
                         <p>Do you have any questions about Magento 2 Shop By Brand? See the list below for our most frequently asked questions. If your questions are not listed here, please <a href="https://www.magezon.com/contact">contact us.</a></p>
