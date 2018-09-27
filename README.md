@@ -10,7 +10,6 @@
   <p>
 Let your customers experience shopping in a whole new way with Magento 2 Shop By Brand. The extension is a great tool that helps them find products of their favourite brands in the fastest way:
 </p>
-
           <ul class="firebase-list">
 <li>Brand Listing Page</li>
 <li>Brand Detailed Page</li>
@@ -73,7 +72,6 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
             <p><img title="Brand detailed page" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Brand_detailed_page.png" alt="Magento 2 Shop By Brand - Brand detailed page"/></p>
           </div>
         </td>
-      <tr>
         <td width="50%">
           <div class="col-md-6">
             <h3 span style="color: #ff5510">2. Brand detailed page<span></h3>
@@ -103,3 +101,234 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                   <td>
                     <div class="col-md-6">
                       <p><img title="Compatible with layered navigation" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Compatible_with_layered_navigation.png" alt="Magento 2 Shop By Brand - Compatible with layered navigation"/></p>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                  <div class="col-md-6">
+                    <p><img title="Display Featured Brands block flexibly with Brand Widget" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Dislay_Featured_Brands_block_flexibly_with_Brand_Widget.png" alt="Magento 2 Shop By Brand - Display Featured Brands block flexibly with Brand Widget"/></p>
+                  </div>
+                </td>
+                <td width="50%">
+                  <div class="col-md-6">
+                    <h3 span style="color: #ff5510">4. Display Featured Brands block flexibly with Brand Widget<span></h3>
+                      <p>
+                  Our extension lets you display a block of Featured Brands you want to spotlight to customers. Each brand in the block comes with its logo, name and even product number.
+                      <p>
+                        By default, the Featured Brands block will appear at the top of the brand listing page. You can configure its display as dot navigation or next/previous buttons.
+                      </p>
+                      <p>
+                        Especially, you can insert this block anywhere you find suitable such as CMS pages, CMS blocks, etc. with Brand Widget.
+                      </p>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="50%">
+                    <div class="col-md-6">
+                      <h3 span style="color: #ff5510">5. Display brand logo & related products on product pages<span></h3>
+                        <p>On a specific product page, you can:</p>
+                        <li>Display logo of the brand to which the product belongs. This will make your customers feel more impressed with the products they are considering. </li>
+                        <li>
+                          Display a block with more products from that brand. These products may interest your customers to make some more purchases.
+                        </li>
+                      </div>
+                    </td>
+                    <td>
+                      <div class="col-md-6">
+                        <p><img style="display: block; margin-left: auto; margin-right: auto;" title="Display brand logo &amp; related products on product pages" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Display_brand_logo_related_products_on_product_pages.png" alt="Magento 2 Shop By Brand - Display brand logo &amp; related products on product pages"/></p>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                    <div class="col-md-6">
+                      <p><img title="View sold products of each brand" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/View_sold_products_of_a_brand.png" alt="Magento 2 Shop By Brand extension - View sold products of each brand"/></p>
+                    </div>
+                  </div>
+                </td>
+                <td width="50%">
+                  <div class="col-md-6">
+                    <h3 span style="color:#ff5510">6. View sold products of each brand<span></h3>
+                    <p>
+                      Magento 2 Shop By Brand allows you to keep track of sold products of each brand. Based on the sales data, you can adjust your business activities accordingly.
+                    </p>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td width="50%">
+                  <div class="col-md-6">
+                    <h3 span style="color:#ff5510">7. Edit multiple stores & multiple languages in one place<span></h3>
+                      <p>
+                        For an online store, customers not only come from one country but also from around the world. Creating a multilingual store, therefore, is extremely important. It helps customers do the shopping more easily in their own languages. Besides, the conversion rate is more likely to increase.
+                      </p>
+                      <p>
+                        Have you ever created a product in Magento 2? In order to update the information of a product for multiple store views, you only need to open one page. Specifically, just open the edit page of the product in the backend. Then choose the store view you want to edit from the store view dropdown on the upper left corner. Like product, Magento 2 Shop By Brand supports this amazing function too. You can change the data of a brand for multiple store views all in the edit page of that brand.
+                      </p>
+                    </div>
+                  </td>
+                  <td>
+                    <div class="col-md-6">
+                      <p><img title="Edit multiple stores &amp; multiple languages in one place" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Edit_multiple_stores_languages_in_one_place.png" alt="Magento 2 Shop By Brand - Edit multiple stores &amp; multiple languages in one place"/>
+                      </p>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <div class="col-md-6">
+                      <p><img style="display: block; margin-left: auto; margin-right: auto;" title="Access brand listing page from menu bar &amp; top link" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Access_brand_listing_page_from_menu_bar_top_link.png" alt="Magento 2 Shop By Brand - Access brand listing page from menu bar &amp; top link"/>
+                      </p>
+                    </div>
+                  </td>
+                  <td width="50%">
+                    <div class="col-md-6">
+                      <h3 span style="color:#ff5510">8. Access brand listing page from menu bar and top link<span></h3>
+                        <p>Our extension allows you to display the “Brands” tab on the menu bar and top link. By clicking this tab, your customers will be navigated to the brand listing page. So convenient, isn’t it?</p>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td width="50%">
+                      <div class="col-md-6">
+                        <h3 span style="color:#ff5510">9. Import/Export Brands<span></h3>
+                          <p>
+                            With Magento 2 Shop By Brand, you can import/export many brands at the same time by CSV file.
+                          </p>
+                        </div>
+                      </td>
+                      <td>
+                        <div class="col-md-6">
+                          <p><img style="display: block; margin-left: auto; margin-right: auto;" title="Import/Export brands" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Import_Export_brands.png" alt="Magento 2 Shop By Brand - Import/Export brands"/>
+                          </p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <div class="col-md-6">
+                          <p><img title="SEO-friendly brand listing &amp; brand detailed pages" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/SEO-friendly_brand_listing_brand_detailed_page.png" alt="Magento 2 Shop By Brand extension - SEO-friendly brand listing &amp; brand detailed pages"/></p>
+                        </div>
+                      </td>
+                      <td width="50%">
+                        <div class="col-md-6">
+                          <h3 span style="color: #ff5510">10. SEO-friendly brand listing & brand detailed pages<span></h3>
+                            <p>Optimize brand listing and brand detailed pages for SEO with SEO-friendly URL, meta title, meta keywords and meta description.</p>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                    <br/>
+                    <h2>FEATURES FULL LIST</h2>
+                    <ul>
+                        <li> <a target="blank">Brand Listing Page (Featured)</a></li>
+                        <li> <a target="blank">Brand Detailed Page (Featured)</a></li>
+                        <li> <a target="blank">Compatible with Layered Navigation (Featured)</a></li>
+                        <li> <a target="blank">Display Featured Brands Block Flexibly with Brand Widget (Featured)</a></li>
+                        <li> <a target="blank">Display Brand Logo & Related Products on Product Pages</a></li>
+                        <li> <a target="blank">View Sold Products of Each Brand</a></li>
+                        <li> <a target="blank">Edit Multiple Stores & Multiple Languages in One Place</a></li>
+                        <li> <a target="blank">Access Brand Listing Page from Menu Bar and Top Link</a></li>
+                        <li> <a target="blank">Import/Export Brands</a></li>
+                        <li><a target="blank">SEO-Friendly Brand Listing & Brand Detailed Pages</a></li>
+                        <li><a target="blank">Create Categories for Brands</a></li>
+                        <li><a target="blank">Create New Brand on Product Edit Page</a></li>
+                        <li><a target="blank">Hide Brands without Products</a></li>
+                        <li><a target="blank">WYSIWYG Editor for Brand Description & Category Description</a></li>
+                        <li><a target="blank">Multiple Brand & Multiple Category Inline Editing</a></li>
+                        <li><a target="blank">Global Search</a></li>
+                        <li><a target="blank">API Support</a></li>
+                        <li><a target="blank">Flat Design & Responsive Template</a></li>
+                        <li><a target="blank">OWL Carousel</a></li>
+                        <li><a target="blank">No Core Code Changes</a></li>
+                        <li><a target="blank">100% Open-source</a></li>
+                        <li><a target="blank">Easy to Install and Configure</a></li>
+                        <li><a target="blank">User-friendly Interface</a></li>
+                        <li><a target="blank">Free Lifetime Updates</a></li>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <h2>Frequently Asked Questions</h2>
+                        <div>
+                        <p>Do you have any questions about Magento 2 Shop By Brand? See the list below for our most frequently asked questions. If your questions are not listed here, please <a href="https://www.magezon.com/contact">contact us.</p>
+                        </div>
+                        <br/>
+                        <div><h3>
+                          <h2>Feature FAQs</h2>
+                        </div></h3>
+                        <div><h3>
+                          <i>Installation Instructions?</i>
+                            <p>To install this extension, please refer to <a href="https://magezon.com/pub/media/productfile/shopbybrand-v1.0.0-installation-guides.pdf"Magento 2 Shop By Brand Installation Guide></a> for detailed instructions. It will take you just a few minutes to install our extension.</p>
+                          </br>
+                          <div><h3>
+                        <i>Can I create categories for brands?</i>
+                        <p>Yes, our extension allows you to create specific categories for brands. These categories will be displayed on the brand listing page so that you can use to filter brands. You can also choose which categories to appear in the brand category block on the sidebar of brand detailed pages. Besides, each category has its own page that you can customize to be SEO-friendly in the backend.</p>
+                      </div></h3>
+                      <div><h3>
+                        <i>Does Magento 2 Shop By Brand use AJAX to filter brands and load results in instant search box?</i>
+                        <p>Yes, when filtering or searching for brands, customers will achieve their desired results without page reload.</p>
+                      </div></h3>
+                      <div><h3>
+                        <i>What types of products does Magento 2 Shop By Brand support?</i>
+                        <p>Our extension supports all kinds of products including simple, downloadable, configurable, virtual, bundle, grouped, etc.</p>
+                      </div></h3>
+                      <div><h3>
+                        <i>Is the Featured Brands block mobile responsive?</i>
+                        <p>Absolutely. The Featured Brands block works well not only on smartphone but also on other kinds of devices.</p>
+                      </div></h3>
+                        <i>Can I change the URL of the brand listing page?</i>
+                        <p>Yes, of course. First, click on Magezon on the admin sidebar. Then navigate to Shop By Brand > Settings. In the “General Information” section, you will see the field “Brand Route” where you can change the URL of the brand listing page. You can follow this link to have a clearer view.</p>
+                      </div></h3>
+                      <div><h3>
+                        <i>My customers have ordered some products of a brand but I don't see these products appear in the "Sold Items" management section in the backend? Why?</i>
+                        <p>First, we want to explain to you about Cron Job feature of Magento 2 which allows an activity to run automatically at a scheduled time. Among multiple activities that can be scheduled with this feature, one is refreshing report statistics on orders. Specifically, at a specific time of day, the order statistics will be automatically refreshed to include the most recent data. It means that you cannot view the most recent order statistics in the “Reports” section of your website backend until this time.</p>
+                        <p>Now you may wonder how Magento 2 Shop By Brand collects statistics on sold products of a brand. In fact, our extension obtains the data based on the order report statistics of your whole website. If the order statistics of your whole website haven’t been updated, those of Shop By Brand haven’t, either. Therefore, if your customers have ordered some products of a brand but it’s not time to refresh the order statistics of your whole website, you cannot view updated data of these products in the “Reports” section of your website backend. And of course, you cannot view them in the “Sold Items” management section of our extension backend.</p>
+                        <p>So, to view the order statistics on sold items of a brand, you have to wait until the scheduled refreshing time. However, if you want to view immediately, you can do it manually. Just navigate to Reports on the admin sidebar, then click on Refresh Statistics in Statistics section. After that, tick the checkboxes of “Orders” and “Bestsellers” (or you can select all). Set the Actions control to “Refresh Lifetime Statistics” and click Submit button. Now the data of recently ordered products of a brand has been updated.</p>
+                      <p><img title="Refresh report statistics on orders" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Refresh_report_statistics_on_orders.png" alt="Refresh report statistics on orders"/></p>                     
+                    </div></h3>
+                    <i>After installing Magento 2 Shop By Brand for my website, I want my frontend store to look like the demo. Is it possible?</i>
+                    <p>
+                      Surely! All the settings you see in our backend demo will be the default ones in your backend after you install our extension. You can leave them unchanged so that your frontend store will look like our demo. Or you can make changes to suit your needs.</p>
+                    </div></h3>
+                    <h2>Support FAQs</h2>
+                    <div><h3>
+                      <i>Will I get free support and updates?</i>
+                      <p>Absolutely. Magezon offers lifetime free updates, 90-day free support and free installation support.</p>
+                    </div></h3>
+                    <div><h3>
+                      <i>Do I have to pay an extra fee for support after 90 days?</i>
+                      <p>After 90 days, you need to pay an extra fee for our support. However, we believe that 90 days is enough for you to install, run and use our extension properly on your website.</p>
+                    </div></h3>
+                    <div><h3>
+                      <i>How can I get your support?</i>
+                      <p>If you have any questions or need any support, feel free to contact us via following ways. We will get back to you within 24 hours since you submit your support request.</p>
+                      <li>Fill out <a href="https://www.magezon.com/contact">Contact Us form and submit to us.</a></li>
+                      <li>Email us at <a href="mailto:support@magezon.com">support@magezon.com</a></li>
+                      <li>Submit a <a href="https://magezon.ticksy.com/"> ticket.</a></li>
+                      <li>Contact us through <a href="https://www.skype.com/en/">Skype.</a></li>
+                      <li>Contact us on live chat: support@magezon.com.</li>
+                    </div></h3>
+                    <h2>Payment FAQs</h2>
+                    <div><h3>
+                    <li>How can I pay for Blue Form Builder?</li>
+                    <p>Currently, we only support product payment via Paypal. However, we will consider other payment methods and notify you of this.</p>
+                  </div></h3>
+                  <div><h3>
+                    <li>Can I get a refund after purchasing your product?</li>
+                    <p>If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out <a href="https://www.magezon.com/contact">Contact Us, emailing us at support@magezon.com, submitting a ticket, or contacting us via Skype or live chat.</a></p>
+                  </div></h3>
+                  <div><h3>
+                    <li>Is your product purchased with one-time payment?</li>
+                    <p>Yes, you just need to pay one time to get our product without monthly service or update cost or something like that.</p>
+                  </div></h3>
+                  <div><h3>
+                    <li>What is the license policy in Magezon?</li>
+                    <p>According to our license policy, you are allowed to use a single extension license on only one Magento installation.</p>
+                    <p> If you want to use our extension on another Magento installation, you have to purchase another license for this installation.</p>
+                    <p>If you’re running multiple domains or websites under the same Magento installation, you just need to use one extension license.</p>
+                  </div></h3>
+                  
+                    
