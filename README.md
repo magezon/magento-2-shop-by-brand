@@ -9,15 +9,7 @@
                 <div class="col-md-6">
                     <h3 span style="color: #ff5510">2. Brand detailed page<span></h3>
                       <p>
-                        This page provides your customers with detailed information of a specific brand, including:
-                      </p>
-                      <li>name</li>
-                      <li> logo</li>
-                      <li>banner</li>
-                      <li>description</li>
-                      <li>All products belonging to that brand</li>
-                      <p>
-                        On the page sidebar, customers can filter products of that brand by options like color, size, etc. They can also search for their wanted brands in the search box.
+                        This page provides your customers with detailed information of a specific brand, incl:
                       </p>
                 </div>
             </td>
