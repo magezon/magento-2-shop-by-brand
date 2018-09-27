@@ -1,4 +1,3 @@
-<h1> Magento 2 Shop By Brand Extension </h1>
 <html>
 <h1><a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand Extension</a></h1>
 <br/><br/>
@@ -89,6 +88,9 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
               <p>
                 On the page sidebar, customers can filter products of that brand by options like color, size, etc. They can also search for their wanted brands in the search box.
               </p>
+            </div>
+          </td>
+        </tr>
               <tr>
                 <td width="50%">
                   <div class="col-md-6">
