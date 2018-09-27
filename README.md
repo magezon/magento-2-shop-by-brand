@@ -253,57 +253,55 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                         <br/>
                         <h2>Frequently Asked Questions</h2>
                         <div>
-                        <p>Do you have any questions about Magento 2 Shop By Brand? See the list below for our most frequently asked questions. If your questions are not listed here, please <a href="https://www.magezon.com/contact">contact us.</p>
+                        <p>Do you have any questions about Magento 2 Shop By Brand? See the list below for our most frequently asked questions. If your questions are not listed here, please <a href="https://www.magezon.com/contact">contact us.</a></p>
                         </div>
-                        <br/>
                         <div>
                           <h2>Feature FAQs</h2>
                         </div>
                         <div>
-                          <i><p style="color:blue">Installation Instructions?</p></i>
-                            <p>To install this extension, please refer to <a href="https://magezon.com/pub/media/productfile/shopbybrand-v1.0.0-installation-guides.pdf"Magento 2 Shop By Brand Installation Guide></a> for detailed instructions. It will take you just a few minutes to install our extension.</p>
-                          </br>
+                          <i><h3>Installation Instructions?</h3></i>
+                            <p>To install this extension, please refer to <a href="https://magezon.com/pub/media/productfile/shopbybrand-v1.0.0-installation-guides.pdf"> Magento 2 Shop By Brand Installation Guide </a>for detailed instructions. It will take you just a few minutes to install our extension.</p>
                           <div>
-                        <i><p style="color:blue">Can I create categories for brands?</p></i>
+                        <i><h3>Can I create categories for brands?</h3></i>
                         <p>Yes, our extension allows you to create specific categories for brands. These categories will be displayed on the brand listing page so that you can use to filter brands. You can also choose which categories to appear in the brand category block on the sidebar of brand detailed pages. Besides, each category has its own page that you can customize to be SEO-friendly in the backend.</p>
                       </div>
                       <div>
-                        <i><p style="color:blue">Does Magento 2 Shop By Brand use AJAX to filter brands and load results in instant search box?</p></i>
+                        <i><h3>Does Magento 2 Shop By Brand use AJAX to filter brands and load results in instant search box?</h3></i>
                         <p>Yes, when filtering or searching for brands, customers will achieve their desired results without page reload.</p>
                       </div>
                       <div>
-                        <i><p style="color:blue">What types of products does Magento 2 Shop By Brand support?</p></i>
+                        <i><h3>What types of products does Magento 2 Shop By Brand support?</h3></i>
                         <p>Our extension supports all kinds of products including simple, downloadable, configurable, virtual, bundle, grouped, etc.</p>
                       </div>
                       <div>
-                        <i>Is the Featured Brands block mobile responsive?</i>
+                        <i><h3>Is the Featured Brands block mobile responsive?</h3></i>
                         <p>Absolutely. The Featured Brands block works well not only on smartphone but also on other kinds of devices.</p>
                       </div>
-                        <i><p style="color:blue">Can I change the URL of the brand listing page?</p></i>
+                        <i><h3>Can I change the URL of the brand listing page?</h3></i>
                         <p>Yes, of course. First, click on Magezon on the admin sidebar. Then navigate to Shop By Brand > Settings. In the “General Information” section, you will see the field “Brand Route” where you can change the URL of the brand listing page. You can follow this link to have a clearer view.</p>
                       </div>
                       <div>
-                        <i><p style="color:blue">My customers have ordered some products of a brand but I don't see these products appear in the "Sold Items" management section in the backend? Why?</p></i>
+                        <i><h3>My customers have ordered some products of a brand but I don't see these products appear in the "Sold Items" management section in the backend? Why?</h3></i>
                         <p>First, we want to explain to you about Cron Job feature of Magento 2 which allows an activity to run automatically at a scheduled time. Among multiple activities that can be scheduled with this feature, one is refreshing report statistics on orders. Specifically, at a specific time of day, the order statistics will be automatically refreshed to include the most recent data. It means that you cannot view the most recent order statistics in the “Reports” section of your website backend until this time.</p>
                         <p>Now you may wonder how Magento 2 Shop By Brand collects statistics on sold products of a brand. In fact, our extension obtains the data based on the order report statistics of your whole website. If the order statistics of your whole website haven’t been updated, those of Shop By Brand haven’t, either. Therefore, if your customers have ordered some products of a brand but it’s not time to refresh the order statistics of your whole website, you cannot view updated data of these products in the “Reports” section of your website backend. And of course, you cannot view them in the “Sold Items” management section of our extension backend.</p>
                         <p>So, to view the order statistics on sold items of a brand, you have to wait until the scheduled refreshing time. However, if you want to view immediately, you can do it manually. Just navigate to Reports on the admin sidebar, then click on Refresh Statistics in Statistics section. After that, tick the checkboxes of “Orders” and “Bestsellers” (or you can select all). Set the Actions control to “Refresh Lifetime Statistics” and click Submit button. Now the data of recently ordered products of a brand has been updated.</p>
                       <p><img title="Refresh report statistics on orders" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Refresh_report_statistics_on_orders.png" alt="Refresh report statistics on orders"/></p>
                     </div>
-                    <i><p style="color:blue">After installing Magento 2 Shop By Brand for my website, I want my frontend store to look like the demo. Is it possible?</p></i>
+                    <i><h3>After installing Magento 2 Shop By Brand for my website, I want my frontend store to look like the demo. Is it possible?</h3></i>
                     <p>
                       Surely! All the settings you see in our backend demo will be the default ones in your backend after you install our extension. You can leave them unchanged so that your frontend store will look like our demo. Or you can make changes to suit your needs.</p>
                     </div>
                     <h2>Support FAQs</h2>
                     <div>
-                      <i><p style="color:blue">Will I get free support and updates?</p></i>
+                      <i><h3>Will I get free support and updates?<h3></i>
                       <p>Absolutely. Magezon offers lifetime free updates, 90-day free support and free installation support.</p>
                     </div>
                     <div>
-                      <i><p style="color:blue">Do I have to pay an extra fee for support after 90 days?</p></i>
+                      <i><h3>Do I have to pay an extra fee for support after 90 days?</h3></i>
                       <p>After 90 days, you need to pay an extra fee for our support. However, we believe that 90 days is enough for you to install, run and use our extension properly on your website.</p>
                     </div>
                     <div>
-                      <i><p style="color:blue">How can I get your support?</p></i>
+                      <i><h3>How can I get your support?</h3></i>
                       <p>If you have any questions or need any support, feel free to contact us via following ways. We will get back to you within 24 hours since you submit your support request.</p>
                       <li>Fill out <a href="https://www.magezon.com/contact">Contact Us form and submit to us.</a></li>
                       <li>Email us at <a href="mailto:support@magezon.com">support@magezon.com</a></li>
@@ -318,7 +316,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                   </div>
                   <div>
                     <li>Can I get a refund after purchasing your product?</p></li>
-                    <p>If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out <a href="https://www.magezon.com/contact">Contact Us, emailing us at support@magezon.com, submitting a ticket, or contacting us via Skype or live chat.</a></p>
+                    <p>If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out <a href="https://www.magezon.com/contact">Contact Us</a>, emailing us at support@magezon.com, submitting a ticket, or contacting us via Skype or live chat.</p>
                   </div>
                   <div>
                     <li>Is your product purchased with one-time payment?</p></li>
