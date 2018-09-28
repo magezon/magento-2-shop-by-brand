@@ -285,7 +285,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                         <p>So, to view the order statistics on sold items of a brand, you have to wait until the scheduled refreshing time. However, if you want to view immediately, you can do it manually. Just navigate to Reports on the admin sidebar, then click on Refresh Statistics in Statistics section. After that, tick the checkboxes of “Orders” and “Bestsellers” (or you can select all). Set the Actions control to “Refresh Lifetime Statistics” and click Submit button. Now the data of recently ordered products of a brand has been updated.</p>
                       <p><img title="Refresh report statistics on orders" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Refresh_report_statistics_on_orders.png" alt="Refresh report statistics on orders"/></p>
                     </div>
-                    <i><h3>After installing Magento 2 Shop By Brand for my website, I want my frontend store to look like the demo. Is it possible?</h3></i>
+                    <h3>After installing Magento 2 Shop By Brand for my website, I want my frontend store to look like the demo. Is it possible?</h3>
                     <p>
                       Surely! All the settings you see in our backend demo will be the default ones in your backend after you install our extension. You can leave them unchanged so that your frontend store will look like our demo. Or you can make changes to suit your needs.</p>
                     </div>
