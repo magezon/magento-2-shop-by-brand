@@ -1,5 +1,5 @@
 <html>
-<h1><a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand Extension</a></h1>
+<h1><a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand Extension - Display Brand Listing Page</a></h1>
 <br/><br/>
 <table>
   <td width="30%" valign="top"style="border: none; ">
