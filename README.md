@@ -45,7 +45,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
 <li><strong>Promote additional purchases:</strong> By displaying brand logo and related products of the same brand on product pages, customers will be attracted to buy more.</li>
 <li><strong>Optimize brand listing & brand detailed page for SEO</strong> with meta title, keyword and description.</li>
 <h2>Feature Highlights</h2>
-<table border="">
+<table>
   <tbody>
     <tr>
       <td width="50%">
