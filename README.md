@@ -20,7 +20,7 @@ Let your customers experience shopping in a whole new way with Magento 2 Shop By
 <li>Edit Multiple Stores & Multiple Languages in One Place</li>
 <li>Access Brand Listing Page from Menu Bar and Top Link</li>
 <li>Import/Export Brands</li>
-<li>SEO-Friendly Brand Listing & Brand Detailed Pages<li>
+<li>SEO-Friendly Brand Listing & Brand Detailed Pages</li>
 </ul>
 </div>
 </div>
@@ -44,10 +44,11 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
 <p>
   Magento 2 Shop By Brand lets you create a SEO-friendly brand listing and brand detailed pages with meta title, keyword and description. It also comes with Featured Brands block which you can embed anywhere on your website. More noteworthy, you can view and manage sold products of each brand in the backend.
 </p>
+<h3><a href="https://www.youtube.com/watch?v=KgA8rpjMkqY" rel="nofollow">Watch Video Now !</a></h3>
+<br><h2>Business Values</h2>
 <li><strong>Bring a faster shopping experience to customers.</strong> They can find their wanted brands in a wink of an eye through searching and filtering.</li>
 <li><strong>Promote additional purchases:</strong> By displaying brand logo and related products of the same brand on product pages, customers will be attracted to buy more.</li>
 <li><strong>Optimize brand listing & brand detailed page for SEO</strong> with meta title, keyword and description.</li>
-<h3><a href="https://www.youtube.com/watch?v=KgA8rpjMkqY" rel="nofollow">Watch Video Now !</a></h3>
 <br/>
 <h2>Feature Highlights</h2>
 <table>
@@ -225,7 +226,6 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                         </td>
                       </tr>
 					   <tr>
-                      
                       <td width="50%">
                         <div class="col-md-6">
 <h3>Detailed Documentation &amp; Video Tutorials</h3>
@@ -243,7 +243,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
 <h2>Feature Full List</h2>
 <table>
     <tr>
-        <td width="40%">
+        <td width="40%" valign="top">
 		<div class="col-md-6">
 <h3 style="color: #ff6600;">Ultimate Shop By Brand Extension</h3>
 <ul>
@@ -283,7 +283,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
 </ul>
 </div>
 		</td>
-		 <td width="40%">
+		 <td width="40%" valign="top">
 		 <div class="col-md-6">
 <h3 style="color: #ff6600;">3 Ways to Search/Filter Brands</h3>
 <ul>
@@ -369,6 +369,14 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
         <p>
            When you are buying our product, you can see the information of it in add to cart area. In the 'Additional Services' block, tick on 'Free Installation Support' before adding to cart. Just <a href="https://magezon.ticksy.com/" rel="nofollow">submit a ticket here</a> and we're ready for help within 24 hours. This service is totally free, all the thing you have to do is providing us with those below information:
         </p>
+		<ul>
+<li>
+<p>Order ID</p>
+</li>
+<li>
+<p>SSH account &amp; admin account</p>
+</li>
+</ul>
     </div>
                     <div>
                       <h3>Will I get free support and updates?</h3>
