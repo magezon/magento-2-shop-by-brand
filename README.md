@@ -234,7 +234,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                         </td>
 						<td>
                        <div class="col-md-6">
-<p><img title="Magento 2 Mega Menu | Documentation" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-Mega-menu-_-documentation.png" alt="Magento 2 Mega Menu | Documentation" width="800" height="375"></p>
+<p><img title="Magento 2 Mega Menu | Documentation" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-Mega-menu-_-documentation.png" alt="Magento 2 Mega Menu | Documentation"></p>
 </div>
                       </td>
                       </tr>
