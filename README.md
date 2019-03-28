@@ -24,10 +24,13 @@ Let your customers experience shopping in a whole new way with Magento 2 Shop By
 </ul>
 </div>
 </div>
-<div class="compatibility">
-<span class="compatibility"><b>Community Edition:</b> 2.0.x - 2.2.x
-<b>Enterprise Edition:</b> 2.0.x - 2.2.x</span>
-</div></td>
+ <div class="compatibility">
+                        <span class="compatibility"><b>Community Edition:</b> 2.1.x, 2.2.x, 2.3.x
+  <br><b>Enterprise Edition:</b> 2.1.x, 2.2.x, 2.3.x</span>
+                    </div>
+                    <div>
+                            <h3>Demo <a href="http://shopbybrand.m2.magezon.com/brands">Frontend</a> -  <a href="http://shopbybrand.m2.magezon.com/autologin/backend?r=shopbybrand/brand/edit/id&id=35">Backend</a></h3>
+                        </div></td>
  </tr>
 </table>
 <br/>
@@ -44,6 +47,8 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
 <li><strong>Bring a faster shopping experience to customers.</strong> They can find their wanted brands in a wink of an eye through searching and filtering.</li>
 <li><strong>Promote additional purchases:</strong> By displaying brand logo and related products of the same brand on product pages, customers will be attracted to buy more.</li>
 <li><strong>Optimize brand listing & brand detailed page for SEO</strong> with meta title, keyword and description.</li>
+<h3><a href="https://www.youtube.com/watch?v=KgA8rpjMkqY" rel="nofollow">Watch Video Now !</a></h3>
+<br/>
 <h2>Feature Highlights</h2>
 <table>
   <tbody>
@@ -219,36 +224,103 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                           </div>
                         </td>
                       </tr>
+					   <tr>
+                      
+                      <td width="50%">
+                        <div class="col-md-6">
+<h3>Detailed Documentation &amp; Video Tutorials</h3>
+<p>We provide&nbsp;<a href="https://www.youtube.com/channel/UC1XkOcmZeAq-b2VNqM6o4rw?view_as=subscriber" target="_blank" rel="noopener">Video Tutorials</a>&nbsp;with visual guidance for using the extension. Besides, you can use <a title="Magento 2 Shop By Brand User Guide" href="https://magezon.com/pub/media/productfile/shopbybrand-v1.0.0-user_guides.pdf" target="_blank" rel="noopener">User Guide</a> for every tiny detail. If you still confuse with our instruction, contact us via <a title="Email Contact" href="mailto:support@magezon.com" target="_blank" rel="noopener">email</a> or submit us a <a href="https://magezon.ticksy.com/" target="_blank" rel="noopener">ticket</a>.&nbsp;</p>
+</div>
+                        </td>
+						<td>
+                       <div class="col-md-6">
+<p><img title="Magento 2 Mega Menu | Documentation" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento-2-Mega-menu-_-documentation.png" alt="Magento 2 Mega Menu | Documentation" width="800" height="375"></p>
+</div>
+                      </td>
+                      </tr>
                     </table>
                     <br/>
-                    <h2>FEATURES FULL LIST</h2>
-                    <ul>
-                        <li> <a target="blank">Brand Listing Page (Featured)</a></li>
-                        <li> <a target="blank">Brand Detailed Page (Featured)</a></li>
-                        <li> <a target="blank">Compatible with Layered Navigation (Featured)</a></li>
-                        <li> <a target="blank">Display Featured Brands Block Flexibly with Brand Widget (Featured)</a></li>
-                        <li> <a target="blank">Display Brand Logo & Related Products on Product Pages</a></li>
-                        <li> <a target="blank">View Sold Products of Each Brand</a></li>
-                        <li> <a target="blank">Edit Multiple Stores & Multiple Languages in One Place</a></li>
-                        <li> <a target="blank">Access Brand Listing Page from Menu Bar and Top Link</a></li>
-                        <li> <a target="blank">Import/Export Brands</a></li>
-                        <li><a target="blank">SEO-Friendly Brand Listing & Brand Detailed Pages</a></li>
-                        <li><a target="blank">Create Categories for Brands</a></li>
-                        <li><a target="blank">Create New Brand on Product Edit Page</a></li>
-                        <li><a target="blank">Hide Brands without Products</a></li>
-                        <li><a target="blank">WYSIWYG Editor for Brand Description & Category Description</a></li>
-                        <li><a target="blank">Multiple Brand & Multiple Category Inline Editing</a></li>
-                        <li><a target="blank">Global Search</a></li>
-                        <li><a target="blank">API Support</a></li>
-                        <li><a target="blank">Flat Design & Responsive Template</a></li>
-                        <li><a target="blank">OWL Carousel</a></li>
-                        <li><a target="blank">No Core Code Changes</a></li>
-                        <li><a target="blank">100% Open-source</a></li>
-                        <li><a target="blank">Easy to Install and Configure</a></li>
-                        <li><a target="blank">User-friendly Interface</a></li>
-                        <li><a target="blank">Free Lifetime Updates</a></li>
-                        <br/>
-                        </ul>
+<h2>Feature Full List</h2>
+<table>
+    <tr>
+        <td width="40%">
+		<div class="col-md-6">
+<h3 style="color: #ff6600;">Ultimate Shop By Brand Extension</h3>
+<ul>
+<li>Brand listing page</li>
+<li>Brand detailed page</li>
+<li>Featured Brands block</li>
+<li>Brand category page</li>
+<li>Brand logo &amp; related products on product page</li>
+<li>Brand name under product price in product listings</li>
+</ul>
+<h3 style="color: #ff6600;">SEO-friendly</h3>
+<ul>
+<li>SEO-friendly pages:
+<p>- Brand listing page</p>
+<p>- Brand detailed page</p>
+<p>- Category page</p>
+</li>
+<li>SEO-friendly elements:
+<p>- URL</p>
+<p>- Meta title</p>
+<p>- Meta keyword</p>
+<p>- Meta description</p>
+</li>
+</ul>
+<h3 style="color: #ff6600;">Better User Experience</h3>
+<ul>
+<li>Filter products by brand in layered navigation</li>
+<li>Filter products by color, size, etc. on brand detailed page</li>
+<li>Access brand listing page quickly form menu bar/top link</li>
+<li>AJAX search and filter</li>
+</ul>
+<h3 style="color: #ff6600;">Custom layout</h3>
+<ul>
+<li>Display Featured Brands slider as dot navigation or next/previous buttons</li>
+<li>Display brands in grid or group by first character on brand listing page</li>
+<li>Responsive design that works well on all devices.</li>
+</ul>
+</div>
+		</td>
+		 <td width="40%">
+		 <div class="col-md-6">
+<h3 style="color: #ff6600;">3 Ways to Search/Filter Brands</h3>
+<ul>
+<li>By search box</li>
+<li>By alphabet order</li>
+<li>By product category</li>
+</ul>
+<h3 style="color: #ff6600;">Better Brand Management</h3>
+<ul>
+<li>View sold products of each brand</li>
+<li>Import/Export brands</li>
+</ul>
+<h3 style="color: #ff6600;">Easy to Configure</h3>
+<ul>
+<li>Edit multiple stores &amp; multiple languages for a brand in one place</li>
+<li>Assign a product to specific brands on the product edit page</li>
+<li>Create new brand on product edit page</li>
+<li>Edit brand description &amp; category description with WYSIWYG</li>
+<li>Support multiple brand &amp; multiple category inline editing</li>
+<li>Quickly search for brands in backend with global search</li>
+<li>Easily embed Feature Brands block anywhere with Brand Widget</li>
+</ul>
+<h3 style="color: #ff6600;">Others</h3>
+<ul>
+<li>API support</li>
+<li>OWL carousel</li>
+<li>No core code changes</li>
+<li>100% open-source</li>
+<li>Easy to install</li>
+<li>User-friendly interface</li>
+<li>30-day money back</li>
+<li>Free lifetime updates</li>
+</ul>
+</div>
+		</td>
+		</tr>
+</table> <br/>
                         <h2>Frequently Asked Questions</h2>
                         <div>
                         <p>Do you have any questions about Magento 2 Shop By Brand? See the list below for our most frequently asked questions. If your questions are not listed here, please <a href="https://www.magezon.com/contact">contact us.</a></p>
@@ -288,10 +360,18 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                     <h3>After installing Magento 2 Shop By Brand for my website, I want my frontend store to look like the demo. Is it possible?</h3>
                     <p>
                       Surely! All the settings you see in our backend demo will be the default ones in your backend after you install our extension. You can leave them unchanged so that your frontend store will look like our demo. Or you can make changes to suit your needs.</p>
-                    </div>
+                    </div><br/>
                     <h2>Support FAQs</h2>
+					<div>
+        <h3><a id="user-content-----how-can-i-get-installation-support---" class="anchor" aria-hidden="true" href="#----how-can-i-get-installation-support---"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><b>
+    How can I get installation support?
+   </b></h3>
+        <p>
+           When you are buying our product, you can see the information of it in add to cart area. In the 'Additional Services' block, tick on 'Free Installation Support' before adding to cart. Just <a href="https://magezon.ticksy.com/" rel="nofollow">submit a ticket here</a> and we're ready for help within 24 hours. This service is totally free, all the thing you have to do is providing us with those below information:
+        </p>
+    </div>
                     <div>
-                      <h3>Will I get free support and updates?<h3>
+                      <h3>Will I get free support and updates?</h3>
                       <p>Absolutely. Magezon offers lifetime free updates, 90-day free support and free installation support.</p>
                     </div>
                     <div>
@@ -306,23 +386,43 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                       <li>Submit a <a href="https://magezon.ticksy.com/"> ticket.</a></li>
                       <li>Contact us through <a href="https://www.skype.com/en/">Skype.</a></li>
                       <li>Contact us on live chat: support@magezon.com.</li>
-                    </div>
+                    </div><br/>
                     <h2>Payment FAQs</h2>
                     <div>
-                    <li>How can I pay for Blue Form Builder?</p></li>
+                    <h3>How can I pay for Blue Form Builder?</h3>
                     <p>Currently, we only support product payment via Paypal. However, we will consider other payment methods and notify you of this.</p>
                   </div>
                   <div>
-                    <li>Can I get a refund after purchasing your product?</p></li>
+                    <h3>Can I get a refund after purchasing your product?</h3>
                     <p>If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out <a href="https://www.magezon.com/contact">Contact Us</a>, emailing us at support@magezon.com, submitting a ticket, or contacting us via Skype or live chat.</p>
                   </div>
                   <div>
-                    <li>Is your product purchased with one-time payment?</p></li>
+                    <h3>Is your product purchased with one-time payment?</h3>
                     <p>Yes, you just need to pay one time to get our product without monthly service or update cost or something like that.</p>
                   </div>
                   <div>
-                    <li>What is the license policy in Magezon?</li>
+                    <h3>What is the license policy in Magezon?</h3>
                     <p>According to our license policy, you are allowed to use a single extension license on only one Magento installation.</p>
                     <p> If you want to use our extension on another Magento installation, you have to purchase another license for this installation.</p>
                     <p>If you’re running multiple domains or websites under the same Magento installation, you just need to use one extension license.</p>
                   </div>
+				  	<br>
+<h2>Magezon Extensions</h2>
+<div>
+ <ul>
+     <li><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html" rel="nofollow">Magento 2 Page Builder</a></li>
+    <li><a href="https://www.magezon.com/magento-2-single-product-page-builder.html" rel="nofollow">Magento 2 Single Product Page Builder</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-form-builder.html" rel="nofollow">Magento 2 Form Builder</a></li>
+    <li><a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-shop-by-brand.html" rel="nofollow">Magento 2 Shop By Brand</a></li>
+ 	<li><a href="https://www.magezon.com/product-labels.html" rel="nofollow">Magento 2 Product Labels</a></li>
+     <li><a href="https://www.magezon.com/magento-2-quick-order.html" rel="nofollow">Magento 2 Quick Order</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html" rel="nofollow">Magento 2 Ajax Cart</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-lazy-load.html/" rel="nofollow">Magento 2 Lazy Load</a></li>
+    <li><a href="https://www.magezon.com/magento-2-tabs-pro.html/" rel="nofollow">Magento 2 Tabs</a></li>
+ 	<li><a href="https://www.magezon.com/magento-2-customer-attachments.html" rel="nofollow">Magento 2 Customer Attachments</a></li>
+  <li><a href="https://www.magezon.com/configurable-product-matrix.html" rel="nofollow">Magento 2 Configurable Product Matrix</a></li>
+</ul>
+</div>
+
+
