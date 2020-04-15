@@ -19,7 +19,7 @@ Let your customers experience shopping in a whole new way with Magento 2 Shop By
 <li><a href="#view-sold">View Sold Products of Each Brand</a></li>
 <li><a href="#edit-multiple">Edit Multiple Stores & Multiple Languages in One Place</a></li>
 <li><a href="#access-brand">Access Brand Listing Page from Menu Bar and Top Link</a></li>
-<li><a href="#import-export-brand"> href=""Import/Export Brands</a></li>
+<li><a href="#import-export-brand"> Import/Export Brands</a></li>
 <li><a href="#seo-friendly">SEO-Friendly Brand Listing & Brand Detailed Pages</a></li>
 <li><a href="#fully-compatible">Fully compatible with Magezon Page Builder</a></li>
 </ul>
