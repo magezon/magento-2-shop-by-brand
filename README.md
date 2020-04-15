@@ -11,17 +11,17 @@
 Let your customers experience shopping in a whole new way with Magento 2 Shop By Brand. The extension is a great tool that helps them find products of their favourite brands in the fastest way:
 </p>
           <ul class="firebase-list">
-<li>Brand Listing Page</li>
-<li>Brand Detailed Page</li>
-<li>Compatible with Layered Navigation</li>
-<li>Display Featured Brands Block Flexibly with Brand Widget</li>
-<li>Display Brand Logo & Related Products on Product Pages</li>
-<li>View Sold Products of Each Brand</li>
-<li>Edit Multiple Stores & Multiple Languages in One Place</li>
-<li>Access Brand Listing Page from Menu Bar and Top Link</li>
-<li>Import/Export Brands</li>
-<li>SEO-Friendly Brand Listing & Brand Detailed Pages</li>
-<li>Fully compatible with Magezon Page Builder</li>
+<li><a href="#brand-list">Brand Listing Page</a></li>
+<li><a href="#brand-detailed">Brand Detailed Page</a></li>
+<li><a href="#compatible">Compatible with Layered Navigation</a></li>
+<li><a href="#display-featured">Display Featured Brands Block Flexibly with Brand Widget</a></li>
+<li><a href="#display-brand">Display Brand Logo & Related Products on Product Pages</a></li>
+<li><a href="#view-sold">View Sold Products of Each Brand</a></li>
+<li><a href="#edit-multiple">Edit Multiple Stores & Multiple Languages in One Place</a></li>
+<li><a href="#access-brand">Access Brand Listing Page from Menu Bar and Top Link</a></li>
+<li><a href="#import-export-brand"> href=""Import/Export Brands</a></li>
+<li><a href="#seo-friendly">SEO-Friendly Brand Listing & Brand Detailed Pages</a></li>
+<li><a href="#fully-compatible">Fully compatible with Magezon Page Builder</a></li>
 </ul>
 </div>
 </div>
@@ -54,7 +54,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
 <h2>Feature Highlights</h2>
 <table>
   <tbody>
-    <tr>
+    <tr id="brand-list">
       <td width="50%">
           <div class="col-md-6">
             <h3 span style="color: #ff5510">1. Brand listing page<span></h3>
@@ -73,7 +73,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
           </div>
         </td>
       </tr>
-      <tr>
+      <tr id="brand-detailed">
         <td width="50%">
           <div class="col-md-6">
             <p><img title="Brand detailed page" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/detailed-page.png" alt="Magento 2 Shop By Brand - Brand detailed page"/></p>
@@ -96,7 +96,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
             </div>
           </td>
         </tr>
-              <tr>
+              <tr id="compatible">
                 <td width="50%">
                   <div class="col-md-6">
                     <h3 span style="color: #ff5510">3. Compatible with layered navigation<span></h3>
@@ -111,7 +111,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                     </div>
                   </td>
                 </tr>
-                <tr>
+                <tr id="display-featured">
                   <td>
                   <div class="col-md-6">
                     <p><img title="Display Featured Brands block flexibly with Brand Widget" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Dislay_Featured_Brands_block_flexibly_with_Brand_Widget.png" alt="Magento 2 Shop By Brand - Display Featured Brands block flexibly with Brand Widget"/></p>
@@ -131,7 +131,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                     </div>
                   </td>
                 </tr>
-                <tr>
+                <tr id="display-brand">
                   <td width="50%">
                     <div class="col-md-6">
                       <h3 span style="color: #ff5510">5. Display brand logo & related products on product pages<span></h3>
@@ -148,12 +148,11 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                       </div>
                     </td>
                   </tr>
-                  <tr>
+                  <tr id="view-sold">
                     <td>
                     <div class="col-md-6">
                       <p><img title="View sold products of each brand" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/View_sold_products_of_a_brand.png" alt="Magento 2 Shop By Brand extension - View sold products of each brand"/></p>
                     </div>
-                  </div>
                 </td>
                 <td width="50%">
                   <div class="col-md-6">
@@ -164,7 +163,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                   </div>
                 </td>
               </tr>
-              <tr>
+              <tr id="edit-multiple">
                 <td width="50%">
                   <div class="col-md-6">
                     <h3 span style="color:#ff5510">7. Edit multiple stores & multiple languages in one place<span></h3>
@@ -183,7 +182,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                     </div>
                   </td>
                 </tr>
-                <tr>
+                <tr  id="access-brand">
                   <td>
                     <div class="col-md-6">
                       <p><img style="display: block; margin-left: auto; margin-right: auto;" title="Access brand listing page from menu bar &amp; top link" src="https://www.magezon.com/pub/media/wysiwyg/extension/shopbybrand/Access_brand_listing_page_from_menu_bar_top_link.png" alt="Magento 2 Shop By Brand - Access brand listing page from menu bar &amp; top link"/>
@@ -197,7 +196,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                       </div>
                     </td>
                   </tr>
-                  <tr>
+                  <tr id="import-export-brand">
                     <td width="50%">
                       <div class="col-md-6">
                         <h3 span style="color:#ff5510">9. Import/Export Brands<span></h3>
@@ -213,7 +212,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                         </div>
                       </td>
                     </tr>
-                    <tr>
+                    <tr id="seo-friendly">
                       <td>
                         <div class="col-md-6">
                           <p><img title="SEO-friendly brand listing &amp; brand detailed pages" src="https://camo.githubusercontent.com/0b4e24e341998f833c13d22537c8763e90641405/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f777973697779672f657874656e73696f6e2f73686f7062796272616e642f53454f2d667269656e646c795f6272616e645f6c697374696e675f6272616e645f64657461696c65645f706167652e706e67" alt="Magento 2 Shop By Brand extension - SEO-friendly brand listing &amp; brand detailed pages"/></p>
@@ -226,7 +225,7 @@ With<strong> Magento 2 Shop By Brand</strong>, you can help customers find produ
                           </div>
                         </td>
                       </tr>
-					   <tr>
+					   <tr id="fully-compatible">
                       <td width="50%">
                         <div class="col-md-6">
 <h3>Detailed Documentation &amp; Video Tutorials</h3>
